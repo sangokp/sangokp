@@ -1,44 +1,57 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=&fontSize=0" width="100%" />
+<!-- HEADER: SPACE/REALITY BENDING THEME -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=G1%20//%20ARCHITECT&fontSize=70&fontAlignY=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<!-- GLITCH TYPING EFFECT -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%E2%96%88%E2%96%88+SYSTEM+ONLINE+%E2%96%88%E2%96%88;initializing+modules..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Music+is+the+universal+language.;Exploring+the+Quantum+Mind.;Building+the+AEGIS+Legacy." alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- DYNAMIC STATUS -->
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00d4ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MODE-BUILDING-ff00ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-ffd700?style=for-the-badge&labelColor=0d1117" />
+<!-- IDENTITY BADGES -->
+<img src="https://img.shields.io/badge/VIBE-INTERSTELLAR-00d4ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FOCUS-AI_COOPERATIVE-ff00ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SOUND-EDM_PIANO-ffd700?style=flat-square&labelColor=0d1117" />
+
+<br/>
+
+> *"Until you make the unconscious conscious, it will direct your life and you will call it fate."* — **Carl Jung**
+
+<br/>
+
+<!-- CREATIVE SECTION -->
+### 🎹 THE FREQUENCY
+**Music Producer turned AI Architect.** From K-Pop beats and EDM synthesis to Economics and Neural Networks. I view code as a symphony and data as the score.
+
+[![Spotify](https://img.shields.io/badge/Spotify-Listen_to_G1-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/5Mn3oGdk5e1TXkagfIuhHd?si=3a9bad1c299b425a)
 
 ---
 
-<!-- SNAKE ANIMATION -->
+<!-- VISUAL ACTIVITY -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangokp/sangokp/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangokp/sangokp/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/sangokp/sangokp/output/github-snake.svg" />
 </picture>
 
----
-
-<!-- ACTIVITY MATRIX -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangokp&bg_color=0d1117&color=00d4ff&line=ff00ff&point=ffd700&area=true&hide_border=true&custom_title=ACTIVITY%20MATRIX" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangokp&bg_color=0d1117&color=00d4ff&line=ff00ff&point=ffd700&area=true&hide_border=true&custom_title=NEURAL_ACTIVITY" width="100%"/>
 
 ---
 
-<!-- TECH STACK -->
-<img src="https://skillicons.dev/icons?i=ts,python,docker,linux,git,postgres&theme=dark" />
+<!-- STACK -->
+### 🛠️ TOOLKIT
+<img src="https://skillicons.dev/icons?i=ts,python,docker,linux,git,postgres,pytorch,tensorflow&theme=dark" />
 
 ---
 
-<!-- INTERFACE LINKS -->
-<a href="https://aegisos.ai"><img src="https://img.shields.io/badge/AEGIS-MAINFRAME-00d4ff?style=for-the-badge&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==" /></a>
-<a href="https://instagram.com/aegis_ai_cooperative"><img src="https://img.shields.io/badge/SIGNAL-BROADCAST-E4405F?style=for-the-badge&labelColor=0d1117&logo=instagram" /></a>
+<!-- FOOTER / CONNECT -->
+### 📡 SIGNAL
+<a href="https://aegisos.ai"><img src="https://img.shields.io/badge/AEGIS-MAINFRAME-00d4ff?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://instagram.com/aegis_ai_cooperative"><img src="https://img.shields.io/badge/IG-BROADCAST-E4405F?style=for-the-badge&labelColor=0d1117&logo=instagram" /></a>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
+<br/>
+
+`STATUS: OBSERVED. REALITY: SUBJECTIVE.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=80&section=footer" width="100%" />
 
 </div>
