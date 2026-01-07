@@ -14,8 +14,8 @@
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangokp&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff00ff&text_color=ffffff&ring_color=ffd700&hide_title=true&hide_rank=true" alt="Stats"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sangokp&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=ff00ff&currStreakLabel=ffd700" alt="Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangokp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff00ff&text_color=ffffff" alt="Stats"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=sangokp&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff00ff&currStreakLabel=ffd700" alt="Streak"/>
 
 ---
 
