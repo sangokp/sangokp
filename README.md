@@ -74,7 +74,7 @@
 ```
 
 [![AEGIS](https://img.shields.io/badge/AEGIS-aegisos.ai-00d9ff?style=flat-square&labelColor=0d1117)](https://aegisos.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077b5?style=flat-square&labelColor=0d1117)](https://linkedin.com/in/jiwonjeong)
+[![Instagram](https://img.shields.io/badge/Instagram-@aegisai.co-E4405F?style=flat-square&logo=instagram&labelColor=0d1117)](https://instagram.com/aegisai.co)
 
 </div>
 
