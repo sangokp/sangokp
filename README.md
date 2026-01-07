@@ -30,27 +30,17 @@
 ---
 
 <!-- TECH STACK -->
-```
-╔══════════════════════════════════════════════════════════════╗
-║                     TECH STACK MATRIX                        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://skillicons.dev/icons?i=ts,rust,go,python,docker,kubernetes,linux,postgres,redis,aws&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=ts,python,docker,linux,git,postgres&theme=dark" />
 
 ---
 
 <!-- METRICS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangokp&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=ff00ff&bg_color=0d1117" />
-<img width="49%" src="https://streak-stats.demolab.com?user=sangokp&theme=transparent&hide_border=true&background=0d1117&ring=00d4ff&fire=ff00ff&currStreakLabel=ffd700&sideLabels=ffffff&dates=888888" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangokp&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff00ff&text_color=ffffff&ring_color=ffd700&hide_title=true&hide_rank=true" alt="Stats"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=sangokp&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff00ff&currStreakLabel=ffd700" alt="Streak"/>
 
 ---
 
 <!-- INTERFACE LINKS -->
-```
-> accessing external nodes...
-```
-
 <a href="https://aegisos.ai"><img src="https://img.shields.io/badge/AEGIS-MAINFRAME-00d4ff?style=for-the-badge&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==" /></a>
 <a href="https://instagram.com/aegis_ai_cooperative"><img src="https://img.shields.io/badge/SIGNAL-BROADCAST-E4405F?style=for-the-badge&labelColor=0d1117&logo=instagram" /></a>
 
