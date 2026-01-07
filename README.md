@@ -24,7 +24,7 @@
 ---
 
 [![AEGIS](https://img.shields.io/badge/AEGIS-aegisos.ai-00d9ff?style=flat-square&labelColor=0d1117)](https://aegisos.ai)
-[![Instagram](https://img.shields.io/badge/Instagram-@aegisai.co-E4405F?style=flat-square&logo=instagram&labelColor=0d1117)](https://instagram.com/aegisai.co)
+[![Instagram](https://img.shields.io/badge/Instagram-@aegis__ai__cooperative-E4405F?style=flat-square&logo=instagram&labelColor=0d1117)](https://instagram.com/aegis_ai_cooperative)
 
 </div>
 
