@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER: SPACE/REALITY BENDING THEME -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=G1%20//%20ARCHITECT&fontSize=70&fontAlignY=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+<!-- HEADER: PURE GRADIENT WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=&fontSize=0" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Music+is+the+universal+language.;Exploring+the+Quantum+Mind.;Building+the+AEGIS+Legacy." alt="Typing SVG" /></a>
 
