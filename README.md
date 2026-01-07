@@ -1,31 +1,60 @@
 <div align="center">
 
-<!-- Snake eating contributions -->
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=&fontSize=0" width="100%" />
+
+<!-- GLITCH TYPING EFFECT -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%E2%96%88%E2%96%88+SYSTEM+ONLINE+%E2%96%88%E2%96%88;initializing+modules..." alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- DYNAMIC STATUS -->
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00d4ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-ff00ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-ffd700?style=for-the-badge&labelColor=0d1117" />
+
+---
+
+<!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangokp/sangokp/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangokp/sangokp/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sangokp/sangokp/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sangokp/sangokp/output/github-snake.svg" />
 </picture>
 
 ---
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangokp&bg_color=0d1117&color=00d9ff&line=ff00ff&point=ffd700&area=true&hide_border=true" width="100%"/>
+<!-- ACTIVITY MATRIX -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangokp&bg_color=0d1117&color=00d4ff&line=ff00ff&point=ffd700&area=true&hide_border=true&custom_title=ACTIVITY%20MATRIX" width="100%"/>
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangokp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff00ff&text_color=ffffff" alt="Stats"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=sangokp&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff00ff&currStreakLabel=ffd700" alt="Streak"/>
+<!-- TECH STACK -->
+```
+╔══════════════════════════════════════════════════════════════╗
+║                     TECH STACK MATRIX                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://skillicons.dev/icons?i=ts,rust,go,python,docker,kubernetes,linux,postgres,redis,aws&theme=dark&perline=10" />
 
 ---
 
-<img src="https://skillicons.dev/icons?i=ts,python,docker,linux,git,rust,go,postgres&theme=dark" alt="Stack"/>
+<!-- METRICS -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangokp&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=ff00ff&bg_color=0d1117" />
+<img width="49%" src="https://streak-stats.demolab.com?user=sangokp&theme=transparent&hide_border=true&background=0d1117&ring=00d4ff&fire=ff00ff&currStreakLabel=ffd700&sideLabels=ffffff&dates=888888" />
 
 ---
 
-[![AEGIS](https://img.shields.io/badge/AEGIS-aegisos.ai-00d9ff?style=flat-square&labelColor=0d1117)](https://aegisos.ai)
-[![Instagram](https://img.shields.io/badge/Instagram-@aegis__ai__cooperative-E4405F?style=flat-square&logo=instagram&labelColor=0d1117)](https://instagram.com/aegis_ai_cooperative)
+<!-- INTERFACE LINKS -->
+```
+> accessing external nodes...
+```
+
+<a href="https://aegisos.ai"><img src="https://img.shields.io/badge/AEGIS-MAINFRAME-00d4ff?style=for-the-badge&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==" /></a>
+<a href="https://instagram.com/aegis_ai_cooperative"><img src="https://img.shields.io/badge/SIGNAL-BROADCAST-E4405F?style=for-the-badge&labelColor=0d1117&logo=instagram" /></a>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
