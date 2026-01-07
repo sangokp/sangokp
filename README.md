@@ -20,7 +20,7 @@
 
 <!-- CREATIVE SECTION -->
 ### 🎹 THE FREQUENCY
-**Music Producer turned AI Architect.** From K-Pop beats and EDM synthesis to Economics and Neural Networks. I view code as a symphony and data as the score.
+I view code as a symphony and data as the score.
 
 [![Spotify](https://img.shields.io/badge/Spotify-Listen_to_G1-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/5Mn3oGdk5e1TXkagfIuhHd?si=3a9bad1c299b425a)
 
