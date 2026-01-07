@@ -31,9 +31,8 @@
 </div>
 
 ```yaml
-name: Dan (Ji Won Jeong)
-role: Co-Founder & CEO @ AEGIS AI Cooperative
-location: Arizona, USA
+name: Dan
+role: Co-Founder @ AEGIS AI Cooperative
 focus: Trust-first AI • Personal AI Infrastructure • Agentic Systems
 
 mission: >
@@ -105,7 +104,7 @@ philosophy: >
 
 ```bash
 $ whoami
-> Dan (Ji Won Jeong) | Co-Founder & CEO @ AEGIS AI Cooperative
+> Dan | Co-Founder @ AEGIS AI Cooperative
 
 $ cat mission.txt
 > Building AI that works for people, not against them.
