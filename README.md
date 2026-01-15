@@ -24,7 +24,7 @@ I view code as a symphony and data as the score.
 
 [![Spotify](https://img.shields.io/badge/Spotify-Listen_to_G1-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/5Mn3oGdk5e1TXkagfIuhHd?si=3a9bad1c299b425a)
 
----
+<div align="center">◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈</div>
 
 <!-- VISUAL ACTIVITY -->
 <picture>
@@ -35,13 +35,13 @@ I view code as a symphony and data as the score.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangokp&bg_color=0d1117&color=00d4ff&line=ff00ff&point=ffd700&area=true&hide_border=true&custom_title=NEURAL_ACTIVITY" width="100%"/>
 
----
+<div align="center">◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈</div>
 
 <!-- STACK -->
 ### 🛠️ TOOLKIT
 <img src="https://skillicons.dev/icons?i=ts,python,docker,linux,git,postgres,pytorch,tensorflow&theme=dark" />
 
----
+<div align="center">◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈</div>
 
 <!-- FOOTER / CONNECT -->
 ### 📡 SIGNAL
